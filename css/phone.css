@@ -1,0 +1,33 @@
+@media screen and  (max-width: 768px)  {
+    .tagline{
+        font-size: 3rem;
+        font-weight: 700;
+    }
+    .w{
+        width: 250px;
+    }
+    .content{
+        width: 95vw;
+        flex-wrap: wrap-reverse;
+    }
+    .image{
+        width: 90vw;
+        margin-top: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .info{
+        margin: 1.5rem 0;
+    }
+    .info h1{
+        padding: 2rem 0 1rem 0;
+        font-size: 1.2rem;
+    }
+    .info p{
+        font-size: 0.8rem;
+    }
+    footer h3{
+        font-size: 0.8rem;
+    }
+}
